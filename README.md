@@ -1,4 +1,4 @@
-# jenkinsx
+# jenkinsx (Jenkins image for Jenkins X)
 
 Extend jenkinsxio/jenkinsx:latest with additional Jenkins plugins
 
